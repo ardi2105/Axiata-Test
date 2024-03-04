@@ -18,8 +18,4 @@ Melakukan deployment aplikasi menggunakan docker compose.
 Membuat CICD Pipeline menggunakan GitLab.
 
 ### [6. Webserver](<6. Web Server/README.md>)
-<<<<<<< HEAD
 Menggunakan webserver nginx serta DNS Cloudflare agar aplikasi dapat diakses menggunakan domain.
-=======
-Menggunakan webserver nginx serta DNS Cloudflare agar aplikasi dapat diakses menggunakan domain.
->>>>>>> c7228c30d0f813ca604c7f424fc69ee4553fd98e
